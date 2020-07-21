@@ -1,6 +1,6 @@
-# Gerrit slave image
+# Gerrit replica image
 
-Image for Gerrit slave
+Image for Gerrit replica
 
 ## Content
 
@@ -9,7 +9,7 @@ Image for Gerrit slave
 ## Setup and configuration
 
 * copy entrypoint scripts to image
-* ensure gerrit is configured as gerrit slave
+* ensure gerrit is configured as gerrit replica
 
 ## Start
 
